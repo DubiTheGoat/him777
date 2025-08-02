@@ -3,17 +3,18 @@
     "specificItems": {
         "enabled": true,
         "sendingItems": [
-            "6550129",
-            "292969139",
-            "1428424821",
-            "19027209"
+            "1032641",
+            "1213472762",
+            "398674411",
+            "583721561"
         ],
         "receivingItems": [
         ],
         "tags": [
             "downgrade",
             "any",
-            "demand"
+            "demand",
+            "rap"
         ],
         "_tagOptions": ["adds", "upgrade", "downgrade", "any", "wishlist", "demand", "rares", "rap", "robux", "projecteds"]
     },
