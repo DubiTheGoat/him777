@@ -3,10 +3,10 @@
     "specificItems": {
         "enabled": true,
         "sendingItems": [
-            "1048037",
             "10159600649",
             "398674411",
-            "1048037"
+            "1048037",
+            "1082932"
         ],
         "receivingItems": [
         ],
